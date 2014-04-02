@@ -44,36 +44,31 @@ new lazy( fs.createReadStream( file1 ))
 			name: column[2].replace(/\"/g,"").trim()		// replace " and remove leading and trailing space
 		}
      })
-     .join(function (ids) {
+     .join(function (id1) {
      	//
      	// Read second file line by line and search the name in the previous list
      	// When you find the name, replace the id cell.
      	//
      	new lazy( fs.createReadStream( file2 ))
 		     .lines
-		     .forEach(function(line){
+		     .map(function(line){
 		         var column = line.toString().split(separator);
-		         var streetName = column[1].replace(/\"/g,"").trim();
-		         
-		         var id = -1;
-		         for (var i=0; i < ids.length; i++ ) {
-		         	if (ids[i].name == streetName ) {
-		         		id = ids[i].id;
-		         		break;
-		         	}
-		         	// if (streetName.indexOf("JOHANN") != -1 && ids[i].name.indexOf("JOHANN") != -1) {
-		         	// 	console.log(streetName);
-		         	// 	console.log(ids[i].name);
-		         	// }
-		         }
-		         // if (id == -1) {
-		         // 	console.log(streetName);
-		         // }
-		         column[0] = id;
-		         //
-		         // Output the result to standard output.
-		         //
-		         console.log(column.join());
-		     }
-		);
+		         var id = column[0].replace(/\"/g,"").trim();
+                return id;
+		     })
+            .join(function(id2) {
+            	for (var i in id2) {
+            		var found = false;
+            		for (var j in id1) {
+            			if (id2[i] == id1[j].id) {
+            				found = true;
+            				break;
+            			}
+            		}
+            		if ( ! found ) {
+            			console.log(i);
+            		}
+            	}
+            })
+
      })

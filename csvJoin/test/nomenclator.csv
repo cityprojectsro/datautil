@@ -109,7 +109,7 @@
 108,"AUREL PETEANU ","în cont. Str. Repin",STR.,"HCL 169/2004",PLOPI,,,,,
 109,"AUREL POP ",str.nouă,STR.,"HCL  200/2002",TORONTAL,"D1, D2",,,,
 110,"AUREL POPOVICI ","POPOVICI AUREL",STR.,,TIPOGRAFILOR,E3,"Popovici Aurel","Popovici Aurel","Popovici Aurel","Popovici Aurel"
-111,"AUREL TURCUŞ","GHEORGHE RANETTI ",INTR.,"HCL 53/2013","GAVRIL MUSICESCU-GH.RANETTI",,,,,
+111,"INTR. AUREL TURCUŞ","GHEORGHE RANETTI ",INTR.,"HCL 53/2013","GAVRIL MUSICESCU-GH.RANETTI",,,,,
 112,"AUREL VERNICHESCU","str. nouă",STR.,"HCL 498/2006","PLOPI SUD",,,,,
 113,"AUREL VLAICU","VLAICU AUREL",PIAŢĂ,,FABRIC,F4,"Vlaicu Aurel","Vlaicu Aurel","Vlaicu Aurel","Vlaicu Aurel"
 114,"AURELIA FĂTU RĂDUŢU","str. nouă",STR.,"HCJ 5/2000",CÂMPULUI,H4,,,,
@@ -125,7 +125,6 @@
 124,"BABA DOCHIA","BABA DOCHIA",STR.,,FABRIC-LUNEI,"F4, G4","Baba Dochia","Baba Dochia",,
 125,"BABA NOVAC","Armata Roşie",STR.,,ANDREESCU,Z7,"Armata Roşie",,,
 126,BABADAG,BABADAG,STR.,,"PLATF.IND. UMT",G1,,,,
-127,"BACĂU ( nu mai există )","BACĂU ( nu mai există )",STR.,,"BALTA VERDE",A4,"Wolf Fr.",Bicas,,
 128,BACHUS,BACHUS,STR.,,RONAŢ,Z4,"s-a reactiv. Veterani",,,
 129,BACHUS,"prelung. Str.Bachus",STR.,"HCL  68/2003",RONAŢ,z4,,,,
 130,"BADEA CÂRŢAN","BADEA CÂRŢAN",PIAŢĂ,,DOROBANŢILOR,"F2, F3","Cârţan Badea","Cârţan Badea","Cârţan Badea",
@@ -140,7 +139,7 @@
 139,"BARBU ISCOVESCU","ISCOVESCU BARBU",STR.,,"CAMPUS UNIVERSITAR","E4, E5",,,,
 140,"BARBU LĂUTARU","BARBU LĂUTARU",STR.,,STEAUA,"B 11","Barbu Lăutaru",,,
 141,"BARBU ŞTEFĂNESCU DELAVRANCEA","DELAVRANCEA BARBU ŞT.",STR.,,TIMOCULUI,G3,B.Şt.Delavrancea,B.Şt.Delavrancea,B.Şt.Delavrancea,
-142,"BARIERA RONAŢ nu exista",,STR.,,RONAŢ,,,,,
+142,"BARIERA RONAŢ",,STR.,,RONAŢ,,,,,
 143,BARIEREI,BARIEREI,STR.,,RONAŢ,Z4,Barierei,Barierei,Barierei,
 144,BÂRSEI,BÂRSEI,STR.,,STEAUA,"B10, B11","Bartok Bela",,,
 145,BÂRZAVA,BÂRZAVA,STR.,,"BALTA VERDE-BLAŞCOVICI","A3, A4",Bârzava,Bârzava,Bârzava,Bârzava
@@ -607,7 +606,7 @@
 606,"JOHANN NEPOMUK PREYER","PREYER IOSZEF",STR.,HCL477/2009,IOSEFIN,"A6,A7,B6","Rangheţ Iosif","Preyer ",Preyer,Preyer
 607,"JOHANN SEBASTIAN BACH",HAMLET,STR.,"HCJ 23/1993","CIRCUMV.  I","B3, C3",Hamlet,Hamlet,,
 608,"JOHANN WOLF","str. Nouă",STR.,"HCL 477/2009",TORONTAL,,,,,
-609,"JOHANN WOLFGANG  VON GOETHE","GOETHE JOHANN  W.",STR.,,LOGA,D4,"Endre Ady","Endre Ady","Endre Ady",
+609,"JOHANN WOLFGANG VON GOETHE","GOETHE JOHANN  W.",STR.,,LOGA,D4,"Endre Ady","Endre Ady","Endre Ady",
 610,"JOHNNY WEISSMULLER","str. nouă",STR.,"HCJ 5/2000",DÂMBOVIŢA-FREIDORF+E142,A8,,,,
 611,"JOKAI MOR",COMSOMOLULUI,STR.,"DEC. 260/1990",PLOPI,"I  5",Comsomolului,,,
 612,"JORGE AMADO","AMADO JORGE",STR.,,GHIRODA,"I  4",,,,
@@ -841,8 +840,7 @@
 840,"NICOLAE IVAN","str. nouă",STR.,"HCL  150/2001",LIDIA-MUREŞ-MUZICESCU,"G9, G10",,,,
 841,"NICOLAE LABIŞ","ZONA ODOBESCU",STR.,,ODOBESCU,C6,,,,
 842,"NICOLAE LEONARD","LEONARD NICOLAE",STR.,,DÂMBOVIŢA,B8,Leonard,Friedel,Friedel,
-843,"NICOLAE STOICA de HAŢEG","HAŢEG IOAN",STR.,"HCJ 23/1993","CIADA ROŞIE",H10,"Haţeg Ioan",,,
-844,"NICOLAE STOICA de HAŢEG","str. nouă în prelung. str Nicolae Stoica de Haţeg",STR.,HCL53/2006,"CIARDA ROŞIE",,,,,
+843,"NICOLAE STOICA DE HAŢEG","HAŢEG IOAN",STR.,"HCJ 23/1993","CIADA ROŞIE",H10,"Haţeg Ioan",,,
 845,"NICOLAE TABLE","str. nouă",STR.,"HCL 57/2002",C.ARADULUI-TORONTAL,E1,,,,
 846,"NICOLAE TINCU VELEA",CĂCIULATA,STR.,"HCJ 23/1993",PLOPI,"I4,I5,J4",Vavilov,,,
 847,"NICOLAE TITULESCU","TITULESCU NICOLAE",SPLAI,,GARĂ-SOLVENTUL,"A6,B5,B6,C6",,,,
@@ -857,7 +855,6 @@
 856,NORMA,"str. nouă",STR.,HCL151/2001,MUREŞ-MUZICESCU,H10,,,,
 857,NOUĂ,NOUĂ,STR.,,LUNEI,,,,,
 858,NOUĂ,"prelungirea celei existente",STR.,"HCL  150/2001","PIAŢA ISTRIA",I6,,,,
-859,"NOUĂ CASE","NOUĂ CASE",STR.,DEZAFECTATĂ,KUNCZ,H5,,,,
 860,NUFĂR,NUFĂR,STR.,,GARĂ-SOLVENTUL,"A5, A6",Nufăr,,,"Nicolae Bălcescu"
 861,OBREJA,OBREJA,STR.,,GHIRODA,"I   4",Maretzkaia,,,
 862,"OCTAV BĂNCILĂ","BĂNCILĂ OCTAV",STR.,,ANDREESCU,Z8,,,,
@@ -914,7 +911,7 @@
 913,PERLEI,PERLEI,STR.,,"LIPOVEI VIILOR","E I, D I",,,,
 914,PERU,"intr. nouă",INTR.,"HCL 256/2010",STEAUA-FRATELIA,,,,,
 915,PETALELOR,PETALELOR,INTR.,,DÂMBOVIŢA,A8,,,,
-916,"PETOFI  SANDOR",ELIBERĂRII,PIAŢĂ,"HCJ 23/1993","ANDREESCU, FREID ,SLAVICI","Y9, Z9",,,,
+916,"PETOFI SANDOR",ELIBERĂRII,PIAŢĂ,"HCJ 23/1993","ANDREESCU, FREID ,SLAVICI","Y9, Z9",,,,
 917,"PETRE ISPIRESCU ","ISPIRESCU PETRE",STR.,,"FABRIC, TIMOCULUI","F3, E3","Ispirescu Petre","Ispirescu Petre","Ispirescu Petre",
 918,"PETRE OLARIU","str. nouă",STR.,"HCJ     5/2000",VIILOR,E1,,,,
 919,"PETRE PĂCURARIU","intr. nouă",INTR.,"HCL 182/2007",MEHALA,*,,,,
@@ -983,8 +980,8 @@
 982,"RĂSCOALA DIN 1907","RĂSCOALA DIN 1907",STR.,,SLAVICI,"X10, Y10","Răscoala din 1907",,,
 983,RĂZBOIENI,RĂZBOIENI,STR.,,RONAŢ,Z5,Războieni,Războieni,Războieni,
 984,RECOLTEI,RECOLTEI,STR.,,VENUS,"G9, H9",,,,
-985,"REGELE CAROL  I",TINEREŢII,BV,"HCJ 23/1993",IOSEFIN,"C6,B6","Talbuchin Mareşal P-ţa, B-dul Jdonov, B-dul 6 Martie","Talbuchin Mareşal P-ţa, B-dul Jdonov, B-dul 6 Martie","Talbuchin Mareşal P-ţa, B-dul Jdonov, B-dul 6 Martie","P-ţa Gen. Dragalina şi    b-dul Berthelot"
-986,"REGELE FERDINAND  I",POLITEHNICII,BV.,"HCJ 23/1993",CENTRU,"C4,C5,D5",Politehnicii,Napoleon,"Principele Nicolae",
+985,"REGELE CAROL I",TINEREŢII,BV,"HCJ 23/1993",IOSEFIN,"C6,B6","Talbuchin Mareşal P-ţa, B-dul Jdonov, B-dul 6 Martie","Talbuchin Mareşal P-ţa, B-dul Jdonov, B-dul 6 Martie","Talbuchin Mareşal P-ţa, B-dul Jdonov, B-dul 6 Martie","P-ţa Gen. Dragalina şi    b-dul Berthelot"
+986,"REGELE FERDINAND I",POLITEHNICII,BV.,"HCJ 23/1993",CENTRU,"C4,C5,D5",Politehnicii,Napoleon,"Principele Nicolae",
 987,"REGIMENTUL 13 CĂLĂRAŞI","REGIMENTUL 13 CĂLĂRAŞI",STR.,,MEDICINEI,"E3, E4","Regimentul 13 Călăraşi","Regimentul 13 Călăraşi","Hohberg General","Reg. 13 Călăraşi"
 988,"REGIMENTUL 5 VÂNĂTORI","GOLDIŞ VASILE",STR.,"HCJ 23/1993",CRETATE,D3,"Iunie unsprezece","Carol Petru","Carol Petru","Carol Petri"
 989,"REGIMENTUL 6 ARTILERIE GREA","stradă nouă",STR.,,"MIRCEA CEL BĂTRÂN",B3,,,,
@@ -1047,7 +1044,6 @@
 1046,"SFÂNTUL GHEORGHE","SFÂNTUL GHEORGHE",PIAŢĂ,,CETATE,D4,"Foch General","Foch General","Foch General","Roaită Vasile P-ţa"
 1047,"SFÂNTUL IOAN","1 Mai",STR.,"HCJ 23/1993","CETATE, PIAŢA 700",D4,"Mai unu( 1 mai)",,,
 1048,"SFÂNTUL IOSIF CEL NOU DE LA PARTOŞ","Intr. nouă",INTR.,HCL143/2012,"COMPLEX STUDENŢESC",,,,,
-1049,"SFÂNTUL NICOLAE","PĂUN PINCIO ION",PIAŢĂ,"HCJ 23/1993",BLAŞCOVICI,B4,"Pincio Păun","Sfântul Nicolae","Sfântul Nicolae","Păun Pincio"
 1050,SIBIU,SIBIU,STR.,,BLAŞCOVICI,C4,Sibiu,Sibiu,Sibiu,Sibiu
 1051,SIEMENS,"str. nouă",STR.,"HCL 422/2006","C. BUZIAŞULUI",,,,,
 1052,SILISTRA,LOTUSULUI,STR.,"HCJ 23/1993","I.I.DE LA BRAD","E  I",,,,
@@ -1215,7 +1211,7 @@
 1214,VLĂSIEI,VLĂSIEI,STR.,,DÂMBOVIŢA,"B7, B8",,,,
 1215,VOLTA,VOLTA,STR.,,LIPOVEI,"E1, F1",Volta,Volta,Volta,Volta
 1216,VRANCEA,VRANCEA,STR.,,"MEHALA II","A3, B3",Grigorescu,Grigorescu,Grigorescu,Grigorescu
-1217,"VUC ST. KARADJIC",PAROŞENI,STR.,"HCJ 23/1993","MEHALA I","A2,B1,B2","Sârbu Filimon",Bandu,Bandu,Bandu
+1217,"VUC ST. KARADZIC",PAROŞENI,STR.,"HCJ 23/1993","MEHALA I","A2,B1,B2","Sârbu Filimon",Bandu,Bandu,Bandu
 1218,VULTURILOR,VULTURILOR,STR.,,DÂMBOVIŢA,"A6,A8,B8","Popovici Borceanu","Popovici Borceanu","Popovici Borceanu","Popovici Borceanu"
 1219,"WILHELM TELL","str. nouă",STR.,"HCJ 5/2000",FREIDORF,C10,,,,
 1220,"WILIAM KONRAD RONTGEN","RONTGEN WILIAM KONRAD",STR.,,STADION,F6,"Roentgen W.Konrad","Roentgen W.Konrad","Roentgen W.Konrad","Roentgen W.Konrad"
